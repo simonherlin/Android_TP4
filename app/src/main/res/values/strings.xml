@@ -3,4 +3,11 @@
     <string name="load">Charger</string>
     <string name="flipH">Miroir H</string>
     <string name="flipV">Miroir V</string>
+    <string name="reverseColors">Inverser couleurs</string>
+    <string name="blackWhiteColors">Niveaux de gris</string>
+    <string name="blackWhiteColors2">Niveaux de gris 2</string>
+    <string name="blackWhiteColors3">Niveaux de gris 3</string>
+    <string name="restore">Restaurer</string>
+    <string name="rotationRight">Rotation horaire</string>
+    <string name="rotationLeft">Rotation anti-horaire</string>
 </resources>
